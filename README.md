@@ -3,4 +3,4 @@
 Esto es un repositorio de prueba
 
 ## Autor
-* Edwin Ramos
+* Edwin Michael Ramos Cabrera
